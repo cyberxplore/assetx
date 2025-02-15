@@ -104,5 +104,7 @@ Contributions are welcome! Fork the repository and submit a pull request.
 ## License
 MIT License
 
-AssetX is developed by the [CyberXplore Team](https://cyberxplore.com).
+
+
+AssetX is made with 🖤 by the [CyberXplore Team](https://cyberxplore.com).
 
